@@ -1,6 +1,12 @@
 # DICA Data Cleaning
+This dataset is used for trainning Dengue Information Chatbot (DICA)- a LLM based chatbot for answering questions related to dengue fever. The chatbot is developed by Dirigent.ai
 
-The dataset is collected from `vnexpress.net` and `vinmec` for Q&A dialouge system. The dataset is in Vietnamese.
+## Data source
+The dataset is collected from `vnexpress.net` and `vinmec` using web scraping. The dataset is then cleaned to remove identity information of the question and answer.
+
+The dataset contained 5000+ Q&A health-related entries.
+
+Language: Vietnamese
 
 ## Data format
 The data is organized in csv format with 2 columns `question` and `answer`
