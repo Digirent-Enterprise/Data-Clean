@@ -1,5 +1,5 @@
-# DICA Data Cleaning
-This dataset is used for trainning Dengue Information Chatbot (DICA)- a LLM based chatbot for answering questions related to dengue fever. The chatbot is developed by Dirigent.ai
+# DICA-5k dataset
+This dataset is used for trainning Dengue Information Chatbot (DICA)- a LLM based chatbot for answering questions related to dengue fever. The chatbot is developed by Digirent.ai
 
 ## Data source
 The dataset is collected from `vnexpress.net` and `vinmec` using web scraping. The dataset is then cleaned to remove identity information of the question and answer.
